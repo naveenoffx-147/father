@@ -1,0 +1,12 @@
+class father {
+    public static void main (String[] args){
+
+        Scanner scanner = new Scanner(system.in);
+        String name = Scanner.nextLine();
+        int age  =  Scanner.nextInt();
+        
+        System.out.print("Enter your name ");
+        System.out.print("Enter your age");
+
+    }
+}
